@@ -1,3 +1,5 @@
+-- Anything can be built on top of AP2, they don't even have to mention they are.
+
 local cellkey = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!$%&+-.=?^{}"
 
 function decodebase74(input)
